@@ -1,0 +1,1170 @@
+﻿Log file open, 10/18/19 14:14:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject2
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.392339
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8850H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=kingr3yes -epicuserid=77ad20ecdc81486fa93f7710f4ea0988 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.18-18.14.52:145][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.18-18.14.52:145][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.18-18.14.52:145][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Engine.ini]
+[2019.10.18-18.14.52:145][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.18-18.14.52:145][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Engine.ini]
+[2019.10.18-18.14.52:145][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Engine.ini]
+[2019.10.18-18.14.52:145][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.18-18.14.52:145][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.18-18.14.52:145][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.18-18.14.52:145][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.18-18.14.52:145][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.18-18.14.52:145][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.18-18.14.52:145][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.18-18.14.52:145][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.18-18.14.52:145][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.18-18.14.52:145][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.18-18.14.52:145][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.18-18.14.52:145][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.18-18.14.52:145][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.18-18.14.52:145][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Engine.ini]
+[2019.10.18-18.14.52:145][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.18-18.14.52:146][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.18-18.14.52:146][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.18-18.14.52:146][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.18-18.14.52:146][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.18-18.14.52:146][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.18-18.14.52:146][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.18-18.14.52:146][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.18-18.14.52:146][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.18-18.14.52:146][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.18-18.14.52:146][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.18-18.14.52:146][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.18-18.14.52:146][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.18-18.14.52:146][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Engine.ini]
+[2019.10.18-18.14.52:146][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Engine.ini]
+[2019.10.18-18.14.52:147][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.18-18.14.52:148][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.18-18.14.52:148][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.18-18.14.52:148][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.18-18.14.52:155][  0]LogHAL: Display: Platform has ~ 16 GB [16903041024 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.10.18-18.14.52:155][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.18-18.14.52:155][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.18-18.14.52:155][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.18-18.14.52:156][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Config/Windows/Engine.ini]
+[2019.10.18-18.14.52:156][  0]LogInit: Computer: DESKTOP-ET2PCTQ
+[2019.10.18-18.14.52:156][  0]LogInit: User: zerog
+[2019.10.18-18.14.52:156][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.10.18-18.14.52:156][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.18-18.14.52:157][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2019.10.18-18.14.52:157][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.18-18.14.52:157][  0]LogMemory: Process Physical Memory: 97.80 MB used, 97.80 MB peak
+[2019.10.18-18.14.52:157][  0]LogMemory: Process Virtual Memory: 89.78 MB used, 89.78 MB peak
+[2019.10.18-18.14.52:157][  0]LogMemory: Physical Memory: 7378.09 MB used,  8741.91 MB free, 16120.00 MB total
+[2019.10.18-18.14.52:157][  0]LogMemory: Virtual Memory: 4660.46 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.10.18-18.14.52:186][  0]LogInit: Using OS detected language (en-US).
+[2019.10.18-18.14.52:186][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.18-18.14.52:187][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.18-18.14.52:333][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.18-18.14.52:360][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.18-18.14.52:360][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.18-18.14.52:534][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.18-18.14.52:535][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.18-18.14.52:968][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P1000' (Feature Level 11_0)
+[2019.10.18-18.14.52:968][  0]LogD3D11RHI:       4021/0/8059 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.18-18.14.52:984][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.10.18-18.14.52:984][  0]LogD3D11RHI:       128/0/8059 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.10.18-18.14.52:986][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.18-18.14.52:986][  0]LogD3D11RHI:       0/0/8059 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.18-18.14.52:986][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.18-18.14.53:012][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.18-18.14.53:012][  0]LogD3D11RHI:     GPU DeviceId: 0x1cbb (for the marketing name, search the web for "GPU Device Id")
+[2019.10.18-18.14.53:012][  0]LogWindows: EnumDisplayDevices:
+[2019.10.18-18.14.53:013][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.10.18-18.14.53:013][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.18-18.14.53:013][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.18-18.14.53:013][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.10.18-18.14.53:013][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P1000
+[2019.10.18-18.14.53:013][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.10.18-18.14.53:013][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.10.18-18.14.53:013][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2019.10.18-18.14.53:048][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.18-18.14.53:051][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.18-18.14.53:051][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.18-18.14.53:051][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.18-18.14.53:064][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.10.18-18.14.53:327][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.18-18.14.53:338][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.18-18.14.53:348][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.18-18.14.53:359][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.18-18.14.53:370][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.18-18.14.53:381][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.18-18.14.53:392][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.18-18.14.53:403][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.18-18.14.53:408][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.18-18.14.53:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.18-18.14.53:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.18-18.14.53:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.18-18.14.53:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.18-18.14.53:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.18-18.14.53:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.18-18.14.53:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.18-18.14.53:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.18-18.14.53:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.18-18.14.53:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.18-18.14.53:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.18-18.14.53:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.18-18.14.53:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.18-18.14.53:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.18-18.14.53:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.18-18.14.53:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.18-18.14.53:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.18-18.14.53:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.18-18.14.53:478][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.18-18.14.53:522][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.18-18.14.53:522][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.18-18.14.53:542][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.18-18.14.53:542][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.18-18.14.53:552][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.18-18.14.53:562][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.18-18.14.53:572][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.18-18.14.53:583][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.18-18.14.53:619][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.18-18.14.53:619][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.18-18.14.53:620][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.18-18.14.53:628][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.18-18.14.53:669][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Intermediate/Shaders/WorkingDirectory/1520/).
+[2019.10.18-18.14.53:669][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/zerog/AppData/Local/Temp/UnrealShaderWorkingDir/F8EFDDC94994628FC1E4558D4DC4ABAF/'.
+[2019.10.18-18.14.53:671][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.18-18.14.53:671][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.18-18.14.53:671][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.18-18.14.54:133][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.18-18.14.54:181][  0]LogDerivedDataCache: Loaded boot cache 0.05s 85MB C:/Users/zerog/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.18-18.14.54:181][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/zerog/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.10.18-18.14.54:181][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.18-18.14.54:181][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.18-18.14.54:181][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.18-18.14.54:181][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.18-18.14.54:192][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.18-18.14.54:192][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.18-18.14.54:192][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.18-18.14.54:204][  0]LogDerivedDataCache: Using Local data cache path C:/Users/zerog/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.18-18.14.54:204][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.18-18.14.54:204][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.18-18.14.54:223][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.18-18.14.54:224][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.18-18.14.54:224][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.18-18.14.54:299][  0]LogAssetRegistry: FAssetRegistry took 0.0314 seconds to start up
+[2019.10.18-18.14.54:588][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.18-18.14.54:702][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.18-18.14.54:702][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.18-18.14.54:702][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.18-18.14.54:703][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.18-18.14.54:703][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.18-18.14.54:713][  0]LogNetVersion: MyProject2 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4139302413)
+[2019.10.18-18.14.55:079][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.025506 seconds
+[2019.10.18-18.14.55:084][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.10.18-18.14.55:084][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.10.18-18.14.55:084][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.18-18.14.55:790][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.18-18.14.55:809][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.18-18.14.55:913][  0]SourceControl: Source control is disabled
+[2019.10.18-18.14.55:913][  0]SourceControl: Source control is disabled
+[2019.10.18-18.14.55:914][  0]SourceControl: Source control is disabled
+[2019.10.18-18.14.55:915][  0]SourceControl: Source control is disabled
+[2019.10.18-18.14.55:997][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.18-18.14.56:066][  0]LogOcInput: OculusInput pre-init called
+[2019.10.18-18.14.56:755][  0]LogEngine: Initializing Engine...
+[2019.10.18-18.14.56:756][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.18-18.14.56:757][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.18-18.14.56:943][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.18-18.14.56:953][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.18-18.14.57:007][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.18-18.14.57:609][  0]LogInit: FAudioDevice initialized.
+[2019.10.18-18.14.57:609][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.18-18.14.57:659][  0]LogDerivedDataCache: Saved boot cache 0.05s 85MB C:/Users/zerog/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.18-18.14.57:664][  0]LogInit: Texture streaming: Enabled
+[2019.10.18-18.14.57:677][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.18-18.14.57:691][  0]LogInit: Transaction tracking system initialized
+[2019.10.18-18.14.57:705][  0]BlueprintLog: New page: Editor Load
+[2019.10.18-18.14.57:786][  0]LocalizationService: Localization service is disabled
+[2019.10.18-18.14.58:042][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/' took 0.01s
+[2019.10.18-18.14.58:042][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.18-18.14.58:042][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.18-18.14.58:186][  0]SourceControl: Source control is disabled
+[2019.10.18-18.14.58:187][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.22/FeaturePacks/StarterContent.upack)
+[2019.10.18-18.14.58:190][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2019.10.18-18.14.58:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2019.10.18-18.14.58:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2019.10.18-18.14.58:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2019.10.18-18.14.58:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2019.10.18-18.14.58:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2019.10.18-18.14.58:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2019.10.18-18.14.58:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2019.10.18-18.14.58:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2019.10.18-18.14.58:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2019.10.18-18.14.58:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2019.10.18-18.14.58:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2019.10.18-18.14.58:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Collapse01.uasset"
+[2019.10.18-18.14.58:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Collapse02.uasset"
+[2019.10.18-18.14.58:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2019.10.18-18.14.58:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Explosion01.uasset"
+[2019.10.18-18.14.58:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Explosion02.uasset"
+[2019.10.18-18.14.58:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2019.10.18-18.14.58:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Fire01.uasset"
+[2019.10.18-18.14.58:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2019.10.18-18.14.58:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2019.10.18-18.14.58:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2019.10.18-18.14.58:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Light01.uasset"
+[2019.10.18-18.14.58:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2019.10.18-18.14.58:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Light02.uasset"
+[2019.10.18-18.14.58:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2019.10.18-18.14.58:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Smoke01.uasset"
+[2019.10.18-18.14.58:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2019.10.18-18.14.58:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2019.10.18-18.14.58:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2019.10.18-18.14.58:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2019.10.18-18.14.58:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2019.10.18-18.14.58:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2019.10.18-18.14.58:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2019.10.18-18.14.58:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Steam01.uasset"
+[2019.10.18-18.14.58:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2019.10.18-18.14.58:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2019.10.18-18.14.58:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2019.10.18-18.14.58:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2019.10.18-18.14.58:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2019.10.18-18.14.58:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2019.10.18-18.14.58:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2019.10.18-18.14.58:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2019.10.18-18.14.58:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2019.10.18-18.14.58:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2019.10.18-18.14.58:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2019.10.18-18.14.58:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2019.10.18-18.14.58:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2019.10.18-18.14.58:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2019.10.18-18.14.58:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2019.10.18-18.14.58:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2019.10.18-18.14.58:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2019.10.18-18.14.58:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2019.10.18-18.14.58:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2019.10.18-18.14.58:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2019.10.18-18.14.58:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Maps/Minimal_Default.umap"
+[2019.10.18-18.14.58:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2019.10.18-18.14.58:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Maps/StarterMap.umap"
+[2019.10.18-18.14.58:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2019.10.18-18.14.58:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2019.10.18-18.14.58:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2019.10.18-18.14.58:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2019.10.18-18.14.58:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2019.10.18-18.14.58:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2019.10.18-18.14.58:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2019.10.18-18.14.58:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2019.10.18-18.14.58:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2019.10.18-18.14.58:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2019.10.18-18.14.58:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2019.10.18-18.14.58:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2019.10.18-18.14.58:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2019.10.18-18.14.58:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2019.10.18-18.14.58:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2019.10.18-18.14.58:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2019.10.18-18.14.58:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2019.10.18-18.14.58:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2019.10.18-18.14.58:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Glass.uasset"
+[2019.10.18-18.14.58:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2019.10.18-18.14.58:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2019.10.18-18.14.58:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2019.10.18-18.14.58:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2019.10.18-18.14.58:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2019.10.18-18.14.58:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2019.10.18-18.14.58:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2019.10.18-18.14.58:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2019.10.18-18.14.58:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2019.10.18-18.14.58:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2019.10.18-18.14.58:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2019.10.18-18.14.58:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2019.10.18-18.14.58:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2019.10.18-18.14.58:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2019.10.18-18.14.58:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2019.10.18-18.14.58:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2019.10.18-18.14.58:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2019.10.18-18.14.58:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2019.10.18-18.14.58:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2019.10.18-18.14.58:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2019.10.18-18.14.58:375][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2019.10.18-18.14.58:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2019.10.18-18.14.58:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2019.10.18-18.14.58:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2019.10.18-18.14.58:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2019.10.18-18.14.58:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2019.10.18-18.14.58:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/P_Explosion.uasset"
+[2019.10.18-18.14.58:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/P_Fire.uasset"
+[2019.10.18-18.14.58:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/P_Smoke.uasset"
+[2019.10.18-18.14.58:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/P_Sparks.uasset"
+[2019.10.18-18.14.58:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2019.10.18-18.14.58:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2019.10.18-18.14.58:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2019.10.18-18.14.58:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2019.10.18-18.14.58:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2019.10.18-18.14.58:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2019.10.18-18.14.58:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2019.10.18-18.14.58:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2019.10.18-18.14.58:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2019.10.18-18.14.58:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2019.10.18-18.14.58:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2019.10.18-18.14.58:396][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/MaterialSphere.uasset"
+[2019.10.18-18.14.58:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Bush.uasset"
+[2019.10.18-18.14.58:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Chair.uasset"
+[2019.10.18-18.14.58:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2019.10.18-18.14.58:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Couch.uasset"
+[2019.10.18-18.14.58:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Door.uasset"
+[2019.10.18-18.14.58:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2019.10.18-18.14.58:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2019.10.18-18.14.58:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2019.10.18-18.14.58:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2019.10.18-18.14.58:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2019.10.18-18.14.58:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2019.10.18-18.14.58:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2019.10.18-18.14.58:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Rock.uasset"
+[2019.10.18-18.14.58:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Shelf.uasset"
+[2019.10.18-18.14.58:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Stairs.uasset"
+[2019.10.18-18.14.58:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Statue.uasset"
+[2019.10.18-18.14.58:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_TableRound.uasset"
+[2019.10.18-18.14.58:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2019.10.18-18.14.58:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2019.10.18-18.14.58:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2019.10.18-18.14.58:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2019.10.18-18.14.58:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2019.10.18-18.14.58:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2019.10.18-18.14.58:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2019.10.18-18.14.58:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2019.10.18-18.14.58:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2019.10.18-18.14.58:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2019.10.18-18.14.58:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2019.10.18-18.14.58:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2019.10.18-18.14.58:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2019.10.18-18.14.58:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2019.10.18-18.14.58:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2019.10.18-18.14.58:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2019.10.18-18.14.58:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2019.10.18-18.14.58:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2019.10.18-18.14.58:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2019.10.18-18.14.58:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2019.10.18-18.14.58:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2019.10.18-18.14.58:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2019.10.18-18.14.58:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2019.10.18-18.14.58:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2019.10.18-18.14.58:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2019.10.18-18.14.58:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2019.10.18-18.14.58:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2019.10.18-18.14.58:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2019.10.18-18.14.58:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2019.10.18-18.14.58:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2019.10.18-18.14.58:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2019.10.18-18.14.58:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2019.10.18-18.14.58:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2019.10.18-18.14.58:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2019.10.18-18.14.58:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2019.10.18-18.14.58:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2019.10.18-18.14.58:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2019.10.18-18.14.58:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2019.10.18-18.14.58:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2019.10.18-18.14.58:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2019.10.18-18.14.58:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2019.10.18-18.14.58:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2019.10.18-18.14.58:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2019.10.18-18.14.58:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2019.10.18-18.14.58:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2019.10.18-18.14.58:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2019.10.18-18.14.58:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2019.10.18-18.14.58:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2019.10.18-18.14.58:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2019.10.18-18.14.58:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2019.10.18-18.14.58:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2019.10.18-18.14.58:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2019.10.18-18.14.58:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2019.10.18-18.14.58:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2019.10.18-18.14.58:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2019.10.18-18.14.58:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2019.10.18-18.14.58:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2019.10.18-18.14.58:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2019.10.18-18.14.58:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2019.10.18-18.14.58:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2019.10.18-18.14.58:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2019.10.18-18.14.58:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2019.10.18-18.14.58:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2019.10.18-18.14.58:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2019.10.18-18.14.58:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2019.10.18-18.14.58:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2019.10.18-18.14.58:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2019.10.18-18.14.58:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2019.10.18-18.14.58:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2019.10.18-18.14.58:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2019.10.18-18.14.58:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2019.10.18-18.14.58:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Door_M.uasset"
+[2019.10.18-18.14.58:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Door_N.uasset"
+[2019.10.18-18.14.58:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2019.10.18-18.14.58:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2019.10.18-18.14.58:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2019.10.18-18.14.58:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2019.10.18-18.14.58:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2019.10.18-18.14.58:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2019.10.18-18.14.58:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2019.10.18-18.14.58:704][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2019.10.18-18.14.58:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2019.10.18-18.14.58:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2019.10.18-18.14.58:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2019.10.18-18.14.58:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2019.10.18-18.14.58:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2019.10.18-18.14.58:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2019.10.18-18.14.58:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2019.10.18-18.14.58:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2019.10.18-18.14.58:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2019.10.18-18.14.58:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2019.10.18-18.14.58:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2019.10.18-18.14.58:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2019.10.18-18.14.58:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2019.10.18-18.14.58:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2019.10.18-18.14.58:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2019.10.18-18.14.58:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2019.10.18-18.14.58:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2019.10.18-18.14.58:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2019.10.18-18.14.58:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2019.10.18-18.14.58:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2019.10.18-18.14.58:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2019.10.18-18.14.58:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2019.10.18-18.14.58:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2019.10.18-18.14.58:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2019.10.18-18.14.58:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2019.10.18-18.14.59:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2019.10.18-18.14.59:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2019.10.18-18.14.59:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2019.10.18-18.14.59:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2019.10.18-18.14.59:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2019.10.18-18.14.59:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2019.10.18-18.14.59:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2019.10.18-18.14.59:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2019.10.18-18.14.59:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2019.10.18-18.14.59:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2019.10.18-18.14.59:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2019.10.18-18.14.59:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2019.10.18-18.14.59:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2019.10.18-18.14.59:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2019.10.18-18.14.59:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2019.10.18-18.14.59:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2019.10.18-18.14.59:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2019.10.18-18.14.59:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2019.10.18-18.14.59:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Water_M.uasset"
+[2019.10.18-18.14.59:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Water_N.uasset"
+[2019.10.18-18.14.59:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2019.10.18-18.14.59:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2019.10.18-18.14.59:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2019.10.18-18.14.59:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2019.10.18-18.14.59:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2019.10.18-18.14.59:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2019.10.18-18.14.59:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2019.10.18-18.14.59:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2019.10.18-18.14.59:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2019.10.18-18.14.59:141][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2019.10.18-18.14.59:194][  0]LogSavePackage: Moving '../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Floor_400x400F3E4E645454516328DC75397A5FA47BE.tmp' to '../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2019.10.18-18.14.59:196][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2019.10.18-18.14.59:197][  0]Cmd: MAP LOAD FILE="../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.18-18.14.59:197][  0]LightingResults: New page: Lighting Build
+[2019.10.18-18.14.59:199][  0]MapCheck: New page: Map Check
+[2019.10.18-18.14.59:199][  0]LightingResults: New page: Lighting Build
+[2019.10.18-18.14.59:224][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.10.18-18.14.59:450][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.18-18.14.59:460][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.18-18.14.59:487][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.10.18-18.14.59:487][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.18-18.14.59:487][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2019.10.18-18.14.59:487][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.291
+[2019.10.18-18.14.59:578][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.14.59:584][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.14.59:591][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.14.59:598][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.14.59:603][  0]LogCollectionManager: Loaded 0 collections in 0.000730 seconds
+[2019.10.18-18.14.59:641][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Collections/' took 0.01s
+[2019.10.18-18.14.59:641][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/Developers/zerog/Collections/' took 0.01s
+[2019.10.18-18.14.59:641][  0]LogFileCache: Scanning file cache for directory 'C:/Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/Collections/' took 0.01s
+[2019.10.18-18.14.59:641][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.10.18-18.14.59:650][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2732 classes and 659 folders.
+[2019.10.18-18.14.59:654][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.18-18.14.59:656][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.14.59:656][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.14.59:657][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.14.59:657][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.14.59:657][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.14.59:658][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.14.59:658][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.14.59:659][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.14.59:659][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.14.59:660][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.14.59:660][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.14.59:660][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.14.59:661][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.14.59:661][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.14.59:662][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.14.59:662][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.14.59:663][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.14.59:663][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.14.59:664][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.14.59:664][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.14.59:664][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.14.59:665][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.14.59:666][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.14.59:666][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.14.59:667][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.14.59:667][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.18-18.14.59:695][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.18-18.14.59:724][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.18-18.14.59:738][  0]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.18-18.14.59:740][  0]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.18-18.14.59:745][  0]LogSlate: Took 0.000740 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.18-18.14.59:783][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2019.10.18-18.14.59:823][  0]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.18-18.14.59:935][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.18-18.14.59:935][  0]LogLoad: (Engine Initialization) Total time: 9.53 seconds
+[2019.10.18-18.14.59:935][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.18-18.14.59:969][  0]LogAssetRegistry: Asset discovery search completed in 5.6915 seconds
+[2019.10.18-18.14.59:971][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.10.18-18.14.59:971][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2019.10.18-18.15.00:064][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.18-18.15.08:261][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-18.15.08:369][986]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.18-18.15.08:372][986]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.15.08:372][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.18-18.15.08:381][986]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 18, 2019, 10:15:08 AM)
+[2019.10.18-18.15.08:393][986]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.18-18.15.08:404][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010929s)
+[2019.10.18-18.15.08:405][986]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.18-18.15.08:405][986]LogPlayLevel: PIE: World Init took: (0.000479s)
+[2019.10.18-18.15.08:405][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011719s)
+[2019.10.18-18.15.08:428][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.10.18-18.15.08:432][986]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.18-18.15.08:505][986]LogInit: FAudioDevice initialized.
+[2019.10.18-18.15.08:551][986]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.18-18.15.08:563][986]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.10.18-14.15.08
+[2019.10.18-18.15.08:564][986]LogWorld: Bringing up level for play took: 0.001348
+[2019.10.18-18.15.08:583][986]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.10.18-18.15.08:584][986]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.008
+[2019.10.18-18.15.08:584][986]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.15.34:533][ 97]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.15.34:533][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.15.34:564][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.18-18.15.34:564][ 97]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.15.34:591][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.15.34:595][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.10.18-18.15.34:633][100]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.10.18-18.16.13:656][778]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.16.47:108][931]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.16.54:142][772]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.16.57:647][191]LogSlate: Window 'Open Level' being destroyed
+[2019.10.18-18.17.11:309][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-18.25.16:896][452]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.18-18.28.23:944][171]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.28.34:784][470]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.28.44:655][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.28.44:661][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.28.54:609][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2019.10.18-18.28.56:291][984]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.10.18-18.28.59:689][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.18-18.29.03:806][862]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.29.09:001][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.29.09:007][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.29.09:013][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.29.09:020][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.29.32:206][222]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.29.35:123][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.29.50:669][387]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.29.54:954][899]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.29.58:688][346]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.30.03:387][907]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.30.14:262][210]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.30.21:012][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.30.24:351][417]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.30.39:079][178]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.30.51:739][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-18.30.51:913][712]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.18-18.30.51:917][712]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.30.51:917][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.18-18.30.51:917][712]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 18, 2019, 10:30:51 AM)
+[2019.10.18-18.30.51:917][712]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.18-18.30.51:929][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011543s)
+[2019.10.18-18.30.51:930][712]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.18-18.30.51:930][712]LogPlayLevel: PIE: World Init took: (0.000652s)
+[2019.10.18-18.30.51:930][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012345s)
+[2019.10.18-18.30.51:978][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.10.18-18.30.51:983][712]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.18-18.30.52:057][712]LogInit: FAudioDevice initialized.
+[2019.10.18-18.30.52:088][712]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.18-18.30.52:090][712]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.10.18-14.30.52
+[2019.10.18-18.30.52:090][712]LogWorld: Bringing up level for play took: 0.001250
+[2019.10.18-18.30.52:104][712]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.472
+[2019.10.18-18.30.52:104][712]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.31.19:012][922]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.31.19:012][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.31.19:040][922]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.18-18.31.19:041][922]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.31.19:066][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.31.19:068][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.10.18-18.31.19:117][928]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.10.18-18.31.30:091][243]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.31.37:392][117]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.32.34:870][  6]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.10.18-18.34.42:625][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.18-18.34.55:680][795]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.10.18-18.35.03:237][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-18.35.40:526][985]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.18-18.36.11:887][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-18.36.11:988][737]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.18-18.36.11:994][737]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.36.11:995][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.18-18.36.11:995][737]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 18, 2019, 10:36:11 AM)
+[2019.10.18-18.36.11:995][737]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.18-18.36.12:010][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014768s)
+[2019.10.18-18.36.12:010][737]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.18-18.36.12:011][737]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2019.10.18-18.36.12:011][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015921s)
+[2019.10.18-18.36.12:051][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.10.18-18.36.12:059][737]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.18-18.36.12:151][737]LogInit: FAudioDevice initialized.
+[2019.10.18-18.36.12:177][737]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.18-18.36.12:180][737]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.10.18-14.36.12
+[2019.10.18-18.36.12:180][737]LogWorld: Bringing up level for play took: 0.001784
+[2019.10.18-18.36.12:194][737]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.381
+[2019.10.18-18.36.12:194][737]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.36.22:109][908]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.36.22:109][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.36.22:136][908]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.18-18.36.22:137][908]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.36.22:166][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.36.22:169][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.10.18-18.36.22:210][911]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.10.18-18.36.29:439][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-18.36.35:040][440]Cmd: DELETE
+[2019.10.18-18.36.35:040][440]Cmd: ACTOR DELETE
+[2019.10.18-18.36.35:041][440]LogEditorActor: Deleted Actor: Character
+[2019.10.18-18.36.35:065][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.10.18-18.36.35:065][440]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.10.18-18.36.37:230][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-18.36.37:535][736]LogActorFactory: Actor Factory created Cube
+[2019.10.18-18.36.38:403][839]LogActorFactory: Actor Factory created Cube
+[2019.10.18-18.36.42:166][285]Cmd: DELETE
+[2019.10.18-18.36.42:166][285]Cmd: ACTOR DELETE
+[2019.10.18-18.36.42:168][285]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.18-18.36.42:190][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.10.18-18.36.42:190][285]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.10.18-18.36.46:331][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-18.36.46:601][814]LogActorFactory: Actor Factory created Cube
+[2019.10.18-18.36.47:345][903]LogActorFactory: Actor Factory created Cube
+[2019.10.18-18.36.54:401][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-18.37.08:381][418]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.18-18.37.18:189][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-18.37.25:934][523]Cmd: SELECT NONE
+[2019.10.18-18.37.27:655][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.10.18-18.37.28:669][847]Cmd: DELETE
+[2019.10.18-18.37.28:669][847]Cmd: ACTOR DELETE
+[2019.10.18-18.37.28:670][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.18-18.37.28:693][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.10.18-18.37.28:694][847]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.10.18-18.37.31:218][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-18.37.38:972][ 76]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.18-18.37.54:335][904]Cmd: TRANSACTION UNDO
+[2019.10.18-18.37.54:335][904]LogEditorTransaction: Undo Move Actors
+[2019.10.18-18.38.00:195][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2019.10.18-18.38.09:294][687]Cmd: TRANSACTION UNDO
+[2019.10.18-18.38.09:294][687]LogEditorTransaction: Undo Move Actors
+[2019.10.18-18.38.30:545][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-18.38.30:703][252]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.18-18.38.30:706][252]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.38.30:706][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.18-18.38.30:706][252]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 18, 2019, 10:38:30 AM)
+[2019.10.18-18.38.30:706][252]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.18-18.38.30:716][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009918s)
+[2019.10.18-18.38.30:717][252]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.18-18.38.30:717][252]LogPlayLevel: PIE: World Init took: (0.000542s)
+[2019.10.18-18.38.30:717][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010587s)
+[2019.10.18-18.38.30:743][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.10.18-18.38.30:756][252]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.18-18.38.30:831][252]LogInit: FAudioDevice initialized.
+[2019.10.18-18.38.30:858][252]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.18-18.38.30:860][252]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.10.18-14.38.30
+[2019.10.18-18.38.30:860][252]LogWorld: Bringing up level for play took: 0.001248
+[2019.10.18-18.38.30:873][252]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.298
+[2019.10.18-18.38.30:873][252]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.38.40:090][333]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.38.40:091][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.38.40:120][333]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.18-18.38.40:121][333]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.38.40:149][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.38.40:152][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.10.18-18.38.40:193][336]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.10.18-18.38.44:075][801]Cmd: TRANSACTION UNDO
+[2019.10.18-18.38.44:075][801]LogEditorTransaction: Undo Scale Actors
+[2019.10.18-18.39.13:145][111]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.39.13:183][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.10.18-18.39.13:292][111]LogSavePackage: Moving '../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/ThirdPersonExampleMap_Auto1863AB5354A220F886D85D69D7F0C5C78.tmp' to '../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2019.10.18-18.39.13:294][111]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.133
+[2019.10.18-18.39.13:294][111]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.133
+[2019.10.18-18.39.20:861][  6]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.39.53:692][945]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.40.41:071][560]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.10.18-18.40.41:076][560]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.10.18-18.41.11:489][182]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.41.13:283][397]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.41.33:434][752]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.10.18-18.41.33:438][752]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.10.18-18.41.35:219][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-18.41.35:335][965]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.18-18.41.35:339][965]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.41.35:340][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.18-18.41.35:340][965]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 18, 2019, 10:41:35 AM)
+[2019.10.18-18.41.35:340][965]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.18-18.41.35:350][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010228s)
+[2019.10.18-18.41.35:350][965]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.18-18.41.35:351][965]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2019.10.18-18.41.35:351][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010991s)
+[2019.10.18-18.41.35:375][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.10.18-18.41.35:380][965]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.18-18.41.35:453][965]LogInit: FAudioDevice initialized.
+[2019.10.18-18.41.35:482][965]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.18-18.41.35:484][965]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.10.18-14.41.35
+[2019.10.18-18.41.35:484][965]LogWorld: Bringing up level for play took: 0.001245
+[2019.10.18-18.41.35:496][965]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.921
+[2019.10.18-18.41.35:496][965]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.41.39:008][375]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.41.39:008][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.41.39:035][375]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.18-18.41.39:036][375]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.41.39:062][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.41.39:064][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.10.18-18.41.39:111][379]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.10.18-18.41.43:195][867]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.41.44:705][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.42.14:177][503]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.10.18-18.42.14:181][503]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.10.18-18.42.15:738][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-18.42.15:838][674]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.18-18.42.15:842][674]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.42.15:842][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.18-18.42.15:842][674]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 18, 2019, 10:42:15 AM)
+[2019.10.18-18.42.15:842][674]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.18-18.42.15:852][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009949s)
+[2019.10.18-18.42.15:853][674]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.18-18.42.15:853][674]LogPlayLevel: PIE: World Init took: (0.000462s)
+[2019.10.18-18.42.15:853][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010531s)
+[2019.10.18-18.42.15:876][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.10.18-18.42.15:879][674]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.18-18.42.15:953][674]LogInit: FAudioDevice initialized.
+[2019.10.18-18.42.15:979][674]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.18-18.42.15:980][674]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.10.18-14.42.15
+[2019.10.18-18.42.15:981][674]LogWorld: Bringing up level for play took: 0.001150
+[2019.10.18-18.42.15:992][674]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.582
+[2019.10.18-18.42.15:993][674]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.42.17:493][840]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.42.17:493][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.42.17:520][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.18-18.42.17:520][840]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.42.17:546][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.42.17:548][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.10.18-18.42.17:597][846]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.10.18-18.42.45:271][108]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.10.18-18.42.45:276][108]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.10.18-18.43.49:026][680]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.10.18-18.43.49:030][680]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.10.18-18.43.51:137][916]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.18-18.43.51:141][916]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.43.51:141][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.18-18.43.51:141][916]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 18, 2019, 10:43:51 AM)
+[2019.10.18-18.43.51:141][916]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.10.18-18.43.51:150][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008869s)
+[2019.10.18-18.43.51:151][916]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.18-18.43.51:151][916]LogPlayLevel: PIE: World Init took: (0.000493s)
+[2019.10.18-18.43.51:151][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009480s)
+[2019.10.18-18.43.51:174][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.10.18-18.43.51:178][916]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.18-18.43.51:252][916]LogInit: FAudioDevice initialized.
+[2019.10.18-18.43.51:281][916]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.18-18.43.51:283][916]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.10.18-14.43.51
+[2019.10.18-18.43.51:283][916]LogWorld: Bringing up level for play took: 0.001160
+[2019.10.18-18.43.51:295][916]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.719
+[2019.10.18-18.43.51:295][916]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.44.04:062][446]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.44.04:062][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.44.04:094][446]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.18-18.44.04:094][446]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.10.18-18.44.04:120][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.18-18.44.04:122][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.10.18-18.44.04:169][450]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.10.18-18.44.05:467][605]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.44.07:562][856]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.44.15:354][729]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.10.18-18.44.15:359][729]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.10.18-18.44.17:172][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-18.56.23:133][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-18.56.39:090][822]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.56.39:105][822]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\zerog\OneDrive\Documents\unitydesign\GitRepository\StealthGame\Assets\Easy FPS\Images\bluegrid.png)
+[2019.10.18-18.56.39:149][822]LogTexture: Display: Building textures: bluegrid (AutoDXT, 2560X1600)
+[2019.10.18-18.56.39:402][822]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-18.56.49:858][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/bluegrid" FILE="../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/ThirdPersonBP/bluegrid.uasset" SILENT=true
+[2019.10.18-18.56.49:991][ 64]LogSavePackage: Moving '../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/bluegrid8AA18A424726F4EE8BEA24A0C437F9B5.tmp' to '../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Content/ThirdPersonBP/bluegrid.uasset'
+[2019.10.18-18.56.53:903][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-18.56.56:615][761]LogMaterial: Display: Missing cached shader map for material bluegrid_Mat, compiling. 
+[2019.10.18-18.56.56:661][761]LogMaterial: Warning: Material /Game/ThirdPersonBP/bluegrid_Mat.bluegrid_Mat needed to have new flag set bUsedWithStaticLighting !
+[2019.10.18-18.56.56:663][761]LogMaterial: Display: Missing cached shader map for material bluegrid_Mat, compiling. 
+[2019.10.18-18.57.00:512][182]Cmd: TRANSACTION UNDO
+[2019.10.18-18.57.00:512][182]LogEditorTransaction: Undo Create Actors
+[2019.10.18-18.57.17:842][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-18.59.32:006][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.10.18-18.59.32:104][669]LogSavePackage: Moving '../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/ThirdPersonExampleMap_Auto2A77C382548431B2CB6C7ACA4A32F17B6.tmp' to '../../../../../../Users/zerog/OneDrive/Documents/Unreal Projects/MyProject2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2019.10.18-18.59.32:106][669]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.123
+[2019.10.18-18.59.32:106][669]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.123
+[2019.10.18-19.05.58:787][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2019.10.18-19.06.05:637][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-19.06.24:427][447]LogSlate: Took 0.001071 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.18-19.06.50:702][452]LogSlate: Window 'Reference Viewer' being destroyed
+[2019.10.18-19.07.32:921][717]LogSlate: Window 'Reference Viewer' being destroyed
+[2019.10.18-19.07.40:335][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2019.10.18-19.07.43:314][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-19.08.06:164][363]LogSlate: Window 'Reference Viewer' being destroyed
+[2019.10.18-19.08.35:109][640]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.10.18-19.08.35:173][641]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2019.10.18-19.08.35:235][642]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2019.10.18-19.08.35:285][643]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2019.10.18-19.08.35:348][644]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2019.10.18-19.08.35:398][645]LogMaterial: Display: Missing cached shader map for material Material_5, compiling. 
+[2019.10.18-19.08.35:442][646]LogMaterial: Display: Missing cached shader map for material Material_6, compiling. 
+[2019.10.18-19.08.36:646][694]LogShaderCompilers: Display: Shaders left to compile 190
+[2019.10.18-19.08.38:762][788]LogShaderCompilers: Display: Shaders left to compile 180
+[2019.10.18-19.08.39:268][808]LogShaderCompilers: Display: Shaders left to compile 170
+[2019.10.18-19.08.39:370][812]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.10.18-19.08.39:390][813]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.10.18-19.08.39:697][825]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.10.18-19.08.40:074][839]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.10.18-19.08.41:984][920]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.10.18-19.08.42:219][928]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.10.18-19.08.42:967][958]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.10.18-19.08.43:629][987]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.10.18-19.08.43:736][992]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.10.18-19.08.44:230][ 13]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.10.18-19.08.44:494][ 24]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.10.18-19.08.45:424][ 64]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.10.18-19.08.47:054][135]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.18-19.08.47:466][154]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.18-19.08.47:489][155]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.18-19.08.48:800][214]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.18-19.08.54:269][517]LogSlate: Window 'Reference Viewer' being destroyed
+[2019.10.18-19.09.32:474][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.10.18-19.09.32:474][ 17]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.026
+[2019.10.18-19.19.33:108][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.10.18-19.19.33:108][ 76]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.023
